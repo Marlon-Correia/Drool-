@@ -16,8 +16,12 @@
         background-position: center;
     }
     &.container02{
-        height: 35vh;
+        height: 40vh;
         background-color: #000000;
+    }
+    &.container03{
+        height: 100vh;
+        background-color: #fff;
     }
 }
 
@@ -54,4 +58,18 @@
     text-decoration: none;
     color: #EEEDDE;
     padding: 0px 1%;
+}
+.sobreC{
+    padding: 10% 10% 18% 10%;
+    width: 54%;
+    height: 75%;
+    color: #000000;
+    //background-color: #d3d3d3;
+    border-radius: 2px;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+}
+.imgAs{
+    width: 360px;
+    margin: 1% 0 1% 5%;
 }
